@@ -1,2 +1,2 @@
 # abprinters.tk
-abprinters website for the project
+abprinters website for a marketing project
